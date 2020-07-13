@@ -1,16 +1,15 @@
-### Hi there 👋
+## Rafael Borges Garcia 👨‍💻
+[![Linkedin Badge](https://img.shields.io/badge/-Rafael_Borges_Garcia-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/rafael-borges-garcia/)](https://www.linkedin.com/in/rafael-borges-garcia/) 
 
-<!--
-**rbgfloripa/rbgfloripa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+### About
+Systems architect & full stack developer.
 
-Here are some ideas to get you started:
+-  **Stack :** Java | Node | Javascript | React | Docker | Kafka
+-  **Database :** PostgreSql | MySql | MariaDB | Mongo
+-  **Learning :** Go | Rust | AWS | GCP
+-  **Hobbies :** Books :books: | Music :headphones: | Cooking :cook: | Bakery :bread:
+-  **Ask me about :** Anything! I'm happy to help :v:
+-  **Fun fact :** The developer is the interface that coffee uses to code :coffee:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
